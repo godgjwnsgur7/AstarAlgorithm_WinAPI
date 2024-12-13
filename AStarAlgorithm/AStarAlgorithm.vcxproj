@@ -137,7 +137,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AStarAlgorithm.cpp" />
-    <ClCompile Include="BlockPriorityQueue.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="Vector2.cpp" />
   </ItemGroup>

@@ -1,18 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\Inha\\VisualStudio\\WinAPI\\AStarAlgorithm\\",
+  "WorkspaceRootPath": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\AstarAlgorithm_WinAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA59F6C2-23A2-403B-AE62-E45CA7FAA345}|AStarAlgorithm\\AStarAlgorithm.vcxproj|C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\Inha\\VisualStudio\\WinAPI\\AStarAlgorithm\\AStarAlgorithm\\BlockPriorityQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CA59F6C2-23A2-403B-AE62-E45CA7FAA345}|AStarAlgorithm\\AStarAlgorithm.vcxproj|C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\AstarAlgorithm_WinAPI\\AStarAlgorithm\\BlockPriorityQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CA59F6C2-23A2-403B-AE62-E45CA7FAA345}|AStarAlgorithm\\AStarAlgorithm.vcxproj|solutionrelative:AStarAlgorithm\\BlockPriorityQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA59F6C2-23A2-403B-AE62-E45CA7FAA345}|AStarAlgorithm\\AStarAlgorithm.vcxproj|C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\Inha\\VisualStudio\\WinAPI\\AStarAlgorithm\\AStarAlgorithm\\BlockPriorityQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA59F6C2-23A2-403B-AE62-E45CA7FAA345}|AStarAlgorithm\\AStarAlgorithm.vcxproj|solutionrelative:AStarAlgorithm\\BlockPriorityQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CA59F6C2-23A2-403B-AE62-E45CA7FAA345}|AStarAlgorithm\\AStarAlgorithm.vcxproj|C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\AstarAlgorithm_WinAPI\\AStarAlgorithm\\AStarAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA59F6C2-23A2-403B-AE62-E45CA7FAA345}|AStarAlgorithm\\AStarAlgorithm.vcxproj|solutionrelative:AStarAlgorithm\\AStarAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA59F6C2-23A2-403B-AE62-E45CA7FAA345}|AStarAlgorithm\\AStarAlgorithm.vcxproj|C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\Inha\\VisualStudio\\WinAPI\\AStarAlgorithm\\AStarAlgorithm\\AStarAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA59F6C2-23A2-403B-AE62-E45CA7FAA345}|AStarAlgorithm\\AStarAlgorithm.vcxproj|solutionrelative:AStarAlgorithm\\AStarAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\Inha\\VisualStudio\\WinAPI\\AStarAlgorithm\\AStarAlgorithm\\BlockPriorityQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,34 +27,34 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BlockPriorityQueue.h",
-              "DocumentMoniker": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\Inha\\VisualStudio\\WinAPI\\AStarAlgorithm\\AStarAlgorithm\\BlockPriorityQueue.h",
+              "DocumentMoniker": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\AstarAlgorithm_WinAPI\\AStarAlgorithm\\BlockPriorityQueue.h",
               "RelativeDocumentMoniker": "AStarAlgorithm\\BlockPriorityQueue.h",
-              "ToolTip": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\Inha\\VisualStudio\\WinAPI\\AStarAlgorithm\\AStarAlgorithm\\BlockPriorityQueue.h",
+              "ToolTip": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\AstarAlgorithm_WinAPI\\AStarAlgorithm\\BlockPriorityQueue.h",
               "RelativeToolTip": "AStarAlgorithm\\BlockPriorityQueue.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-07T08:58:31.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BlockPriorityQueue.cpp",
               "DocumentMoniker": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\Inha\\VisualStudio\\WinAPI\\AStarAlgorithm\\AStarAlgorithm\\BlockPriorityQueue.cpp",
-              "RelativeDocumentMoniker": "AStarAlgorithm\\BlockPriorityQueue.cpp",
+              "RelativeDocumentMoniker": "..\\Inha\\VisualStudio\\WinAPI\\AStarAlgorithm\\AStarAlgorithm\\BlockPriorityQueue.cpp",
               "ToolTip": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\Inha\\VisualStudio\\WinAPI\\AStarAlgorithm\\AStarAlgorithm\\BlockPriorityQueue.cpp",
-              "RelativeToolTip": "AStarAlgorithm\\BlockPriorityQueue.cpp",
+              "RelativeToolTip": "..\\Inha\\VisualStudio\\WinAPI\\AStarAlgorithm\\AStarAlgorithm\\BlockPriorityQueue.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-07T08:58:28.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AStarAlgorithm.cpp",
-              "DocumentMoniker": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\Inha\\VisualStudio\\WinAPI\\AStarAlgorithm\\AStarAlgorithm\\AStarAlgorithm.cpp",
+              "DocumentMoniker": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\AstarAlgorithm_WinAPI\\AStarAlgorithm\\AStarAlgorithm.cpp",
               "RelativeDocumentMoniker": "AStarAlgorithm\\AStarAlgorithm.cpp",
-              "ToolTip": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\Inha\\VisualStudio\\WinAPI\\AStarAlgorithm\\AStarAlgorithm\\AStarAlgorithm.cpp",
+              "ToolTip": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\AstarAlgorithm_WinAPI\\AStarAlgorithm\\AStarAlgorithm.cpp",
               "RelativeToolTip": "AStarAlgorithm\\AStarAlgorithm.cpp",
               "ViewState": "AQIAAIUAAAAAAAAAAAAAwK4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

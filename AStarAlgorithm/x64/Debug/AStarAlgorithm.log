@@ -1,21 +1,7 @@
-﻿  AStarAlgorithm.cpp
+﻿  Player.cpp
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
-C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\AStarAlgorithm\AStarAlgorithm\BlockPriorityQueue.h(11,35): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  (소스 파일 'AStarAlgorithm.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\AStarAlgorithm\AStarAlgorithm\BlockPriorityQueue.h(16,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  (소스 파일 'AStarAlgorithm.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\AStarAlgorithm\AStarAlgorithm\BlockPriorityQueue.h(42,17): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  (소스 파일 'AStarAlgorithm.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\AStarAlgorithm\AStarAlgorithm\AStarAlgorithm.cpp(144,19): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\AStarAlgorithm\AStarAlgorithm\AStarAlgorithm.cpp(145,19): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\AStarAlgorithm\AStarAlgorithm\AStarAlgorithm.cpp(183,20): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\AStarAlgorithm\AStarAlgorithm\AStarAlgorithm.cpp(190,23): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\AStarAlgorithm\AStarAlgorithm\AStarAlgorithm.cpp(352,114): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\AStarAlgorithm\AStarAlgorithm\AStarAlgorithm.cpp(353,115): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\AStarAlgorithm\AStarAlgorithm\AStarAlgorithm.cpp(354,115): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\AStarAlgorithm\AStarAlgorithm\AStarAlgorithm.cpp(393,24): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\AStarAlgorithm\AStarAlgorithm\AStarAlgorithm.cpp(412,27): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  AStarAlgorithm.vcxproj -> C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\AStarAlgorithm\x64\Debug\AStarAlgorithm.exe
+C:\Users\HJH\Desktop\Jun-C\GitHub\AstarAlgorithm_WinAPI\AStarAlgorithm\Player.cpp(38,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Vector2.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+  코드를 생성하고 있습니다...
+  AStarAlgorithm.vcxproj -> C:\Users\HJH\Desktop\Jun-C\GitHub\AstarAlgorithm_WinAPI\x64\Debug\AStarAlgorithm.exe
